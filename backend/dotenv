@@ -1,0 +1,11 @@
+PORT=5000
+MONGO_URI=mongodb+srv://mounikaaabburi:WWXgDvJOw1CudX2i@cluster0.wanicrd.mongodb.net/chat-app?retryWrites=true&w=majority
+JWT_SECRET=monikaisawesome
+
+CLOUDINARY_CLOUD_NAME=du0yl6wwq
+CLOUDINARY_API_KEY=113833878616627
+CLOUDINARY_API_SECRET=BQ9sxuSSusVVUzIhlDDXpYrKoXM
+
+
+
+

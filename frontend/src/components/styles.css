@@ -1,0 +1,10 @@
+.messages {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+.emoji-mart {
+  z-index: 1000;
+  position: absolute;
+}
